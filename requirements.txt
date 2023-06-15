@@ -1,0 +1,8 @@
+pykrx
+pandas
+plotly
+matplotlib
+nbformat
+tqdm
+transformers
+yfinance
